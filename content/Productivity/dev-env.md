@@ -7,7 +7,7 @@ tags:
 draft:
 date: 2026-01-01
 ---
-<sup>[[Edit this page]](https://github.com/mohamedmujtabaraza/blog/edit/main/content/Productivity/dev-env.md)</sup>
+<sup>[[Edit this page]](https://github.com/mohamedmujtabaraza/Blog/edit/main/content/Productivity/dev-env.md)</sup>
 
 For the past few months, I've standardized my development setup using **VS Code's Dev Containers**<sup><span style="display: none;">[@Webpage-2MHIUP9U]</span><a href="#Webpage-2MHIUP9U">[1]</a></sup> combined with **mise**<sup><span style="display: none;">[@Webpage-45PG79FG]</span><a href="#Webpage-45PG79FG">[2]</a></sup>. This combo gives me reproducible environments across projects, whether it's ASP.NET, Node.js, or Python without polluting my local machine or dealing with version conflicts.
 
