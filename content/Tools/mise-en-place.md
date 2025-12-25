@@ -9,7 +9,7 @@ date: 2025-12-25
 ---
 
 1. Install **Mise VSCode Extension**<sup><span style="display: none;">[@Webpage-4DBH5GTX]</span><a href="#Webpage-4DBH5GTX">[1]</a></sup> from Extensions
-2. If prompted\
+2. If prompted
 	>"Mise extension works best with a TOML extension for syntax highlighting and autocompletion. Either of the following are recommended:" Tombi TOML; Even Better TOML
 
 	\> Then install **Even Better TOML Extension**<sup><span style="display: none;">[@Webpage-QBJKM4YY]</span><a href="#Webpage-QBJKM4YY">[2]</a></sup> from Extensions
