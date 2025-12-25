@@ -1,12 +1,13 @@
 ---
 title: Configuring mise in VSCode
 description:
-permalink: mise-en-place
+permalink: mise-vs-code
 aliases:
 tags:
 draft:
 date: 2025-12-25
 ---
+<sup>[[Edit this page]](https://github.com/mohamedmujtabaraza/Blog/edit/main/content/Tools/mise-vs-code.md)</sup>
 
 1. Install **Mise VSCode Extension**<sup><span style="display: none;">[@Webpage-4DBH5GTX]</span><a href="#Webpage-4DBH5GTX">[1]</a></sup> from Extensions
 2. If prompted
@@ -27,4 +28,4 @@ date: 2025-12-25
 [2]\
 “Even Better TOML - Visual Studio Marketplace.” Accessed: Dec. 25, 2025. [Online]. Available: [https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml) ^Webpage-QBJKM4YY
 
-<sup>[Go to home](<../index.md>) &nbsp;&nbsp; [Jump to top](<./mise-en-place.md>)</sup>
+<sup>[Go to home](<../index.md>) &nbsp;&nbsp; [Jump to top](<./mise-vs-code.md>)</sup>

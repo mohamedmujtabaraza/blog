@@ -34,8 +34,7 @@ Dev Containers isolate everything in Docker, so your editor runs "remotely" insi
 	\> "Dev Containers: Rebuild and Reopen in Container"\
 	\> Wait around 2-3 minutes if this is your first time building the container.
 	![Fresh Dev Environment](<../Attachments/devcontainer.png>)
-4. **Configure [mise-en-place](<../Tools/mise-en-place.md>)**
-	See my dedicated post linked above for activating various tools in your shell automatically.
+4. See my dedicated post [Configuring mise in VSCode](<../Tools/mise-vs-code.md>) for activating various tools like Go, Node.js and Python in your shell automatically.
 	
 5. **Verify**
 	In the container terminal: `mise ls`, `node -v`, etc.
