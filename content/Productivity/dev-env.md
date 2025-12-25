@@ -5,7 +5,7 @@ permalink:
 aliases:
 tags:
 draft:
-date: 2026-01-01
+date: 2025-12-25
 ---
 <sup>[[Edit this page]](https://github.com/mohamedmujtabaraza/Blog/edit/main/content/Productivity/dev-env.md)</sup>
 
