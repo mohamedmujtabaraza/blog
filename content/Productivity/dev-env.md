@@ -44,6 +44,13 @@ This keeps my workflows consistent and frustration-free. If you try it, let me k
 Have a favorite Dev Containers trick? Share in the comments.
 
 ---
+
+[^1]: “Developing inside a Container.” Accessed: Dec. 22, 2025. [Online]. Available: [https://code.visualstudio.com/docs/devcontainers/containers](https://code.visualstudio.com/docs/devcontainers/containers)
+[^2]: “Home | mise-en-place.” Accessed: Dec. 22, 2025. [Online]. Available: [https://mise.jdx.dev/](https://mise.jdx.dev/)
+[^3]: “features/src/mise at main · devcontainers-extra/features · GitHub.” Accessed: Dec. 22, 2025. [Online]. Available: [https://github.com/devcontainers-extra/features/tree/main/src/mise](https://github.com/devcontainers-extra/features/tree/main/src/mise)
+
+---
+
 ### References
 
 [1]\
@@ -59,6 +66,4 @@ Have a favorite Dev Containers trick? Share in the comments.
 
 ---
 
-[^1]: “Developing inside a Container.” Accessed: Dec. 22, 2025. [Online]. Available: [https://code.visualstudio.com/docs/devcontainers/containers](https://code.visualstudio.com/docs/devcontainers/containers)
-[^2]: “Home | mise-en-place.” Accessed: Dec. 22, 2025. [Online]. Available: [https://mise.jdx.dev/](https://mise.jdx.dev/)
-[^3]: “features/src/mise at main · devcontainers-extra/features · GitHub.” Accessed: Dec. 22, 2025. [Online]. Available: [https://github.com/devcontainers-extra/features/tree/main/src/mise](https://github.com/devcontainers-extra/features/tree/main/src/mise)
+
