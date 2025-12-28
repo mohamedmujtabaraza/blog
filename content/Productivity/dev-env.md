@@ -48,4 +48,6 @@ Have a favorite Dev Containers trick? Share in the comments.
 
 [^JeffDickey-Webpage-45PG79FG]: Jeff Dickey, “Home | mise-en-place.” Accessed: Dec. 22, 2025. [Online]. Available: [https://mise.jdx.dev/](https://mise.jdx.dev/)
 
+[^Microsoft-Webpage-EIES9WYB]: Microsoft, “Dev Containers - Visual Studio Marketplace.” Accessed: Dec. 27, 2025. [Online]. Available: [https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+
 [^Pierre-EmmanuelMercier-Webpage-QQUVP7VP]: Pierre-Emmanuel Mercier, “features/src/mise at main · devcontainers-extra/features · GitHub.” Accessed: Dec. 22, 2025. [Online]. Available: [https://github.com/devcontainers-extra/features/tree/main/src/mise](https://github.com/devcontainers-extra/features/tree/main/src/mise)
