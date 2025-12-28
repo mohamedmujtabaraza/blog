@@ -1,5 +1,6 @@
 ---
 title: Connect with me
+comments: "false"
 ---
 ### My Socials
 

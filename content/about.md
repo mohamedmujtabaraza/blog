@@ -1,5 +1,6 @@
 ---
 title: About me
+comments: "false"
 ---
 I'm Mohamed Mujtaba Raza, a software engineer with expertise in Microservices, DevOps, Cloud Native and Virtual Reality. I'm passionate about building efficient web applications, optimizing backend systems, and automating workflows.
 
